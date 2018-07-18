@@ -2,5 +2,4 @@
 a new repository
 
 
-test for commit changes
-end
+test
